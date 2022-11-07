@@ -35,3 +35,6 @@ This calculator can do basic mathematical functions such as addition, Substracti
 ![screenshot](assets/sin.png) 
 ![screenshot](assets/answer.png) <br>
 
+### Error Handling
+- The programme able to identify the errors such as divide by zero, zero divide by zero, and etc.
+
